@@ -11,6 +11,8 @@
 
 	5. Move this file to this directory and rename it client_secret.json
 
+	6. pip install tabulate
+
 # Running instructions
 
 	For getting the forum usage statistics:
